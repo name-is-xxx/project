@@ -1,0 +1,10 @@
+.img
+{
+	animation:myfirst 3s;
+}
+
+@keyframes myfirst
+{
+	from {rotate:0deg;}
+	to {rotate:3600deg;}
+}
